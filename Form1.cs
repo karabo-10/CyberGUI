@@ -225,7 +225,7 @@ namespace PROG_Part2_C_
                 }
             }
 
-            return $"Sorry {userName}, I didn't quite understand that. Could you please rephrase? Try asking about passwords, phishing, scams, privacy, or malware.";
+            return $"Sorry {userName}, I did not quite understand that. Could you please rephrase? Try asking about passwords, phishing, scams, privacy, or malware.";
         }
 
         // ─── Name validation ───────────────────────────────────────────────
